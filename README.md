@@ -5,7 +5,7 @@
 </div>
 
 <h3>Hi there 👋</h3>
-<h4>I'm studying in <Fast Campus : Back-End Development BootCamp 5th></h4>
+<h4>I'm studying in Fast Campus : Back-End Development BootCamp 5th</h4>
 <h4>23' 03.17 ~23' 10.10</h4>
 <br>
 
