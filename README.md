@@ -33,7 +33,12 @@
   </span>
   <span>
     <a href="https://www.notion.so/k1m2njun/k1m2njun-59e3315785eb41518f6aa864872966e7?pvs=4">
-      <img src="https://img.shields.io/badge/Notion@k1m2njun-000000?style=flat&logo=notion&logoColor=white" />
+      <img src="https://img.shields.io/badge/Notion@k1m2njun-white?style=flat&logo=notion&logoColor=black" />
+    </a>
+  </span>
+  <span>
+    <a href="https://k1m2njn.tistory.com/">
+      <img src="https://img.shields.io/badge/Tistory@k1m2njun-EC6653?style=flat&logo=tistory&logoColor=white" />
     </a>
   </span>
 </div>
