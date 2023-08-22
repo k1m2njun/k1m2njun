@@ -1,6 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD769&height=150&section=header" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=LingWai+TC&size=40&duration=3500&pause=1000&color=FFD769&center=true&vCenter=true&width=850&lines=%F0%9F%91%8B+Hi+There+!;Je+m'apelle+Min-Jun+%F0%9F%99%82)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=LingWai+TC&size=40&duration=3500&pause=1000&color=FFD769&center=false&vCenter=true&width=850&lines=%F0%9F%91%8B+Hi+There+!;Je+m'apelle+Min-Jun+%F0%9F%99%82)](https://git.io/typing-svg)
 
 <h4>I'm studying in Fast Campus : Back-End Development BootCamp 5th</h4>
 <h4>23' 03.17 ~23' 10.10</h4>
@@ -22,5 +20,3 @@
     </a>
   </span>
 </div>
-<br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD769&height=150&section=footer" />
